@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title</title>
+</head>
+
+<body>
+1 2 3 4 
+
+ @{
+        DateTime time = DateTime.Now;
+        string Dtime = string.Format("{0:MMM d, yyyy}", time);
+        string Ddate = string.Format("{0:hh:mm tt}", time);
+    }
+</body>
+<fieldset>
+    <h1> THE CURRENT TIME </h1>
+    <p> @Dtime </p>
+    <p> @Ddate </p>
+</fieldset>   
+
+</html>

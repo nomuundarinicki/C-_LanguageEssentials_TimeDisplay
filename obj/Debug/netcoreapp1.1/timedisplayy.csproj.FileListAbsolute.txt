@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/bin/Debug/netcoreapp1.1/timedisplayy.deps.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/bin/Debug/netcoreapp1.1/timedisplayy.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/bin/Debug/netcoreapp1.1/timedisplayy.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/bin/Debug/netcoreapp1.1/timedisplayy.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/bin/Debug/netcoreapp1.1/timedisplayy.pdb
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/obj/Debug/netcoreapp1.1/timedisplayy.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/obj/Debug/netcoreapp1.1/timedisplayy.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/timedisplayy/obj/Debug/netcoreapp1.1/timedisplayy.pdb
